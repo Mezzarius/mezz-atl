@@ -1,10 +1,10 @@
 {
   "id": "mezz-atl",
-  "title": "Mezz Active Lighting (v13 Rewrite)",
-  "description": "A modern Foundry v13-compatible rewrite of Active Token Lighting.",
+  "title": "Mezz Active Lighting",
+  "description": "Inventory-driven automatic token lighting with burn times, item-use hooks, and About Time integration.",
   "version": "1.0.0",
   "authors": [{ "name": "Mezz" }],
-  "minimumCoreVersion": "12",
+  "minimumCoreVersion": "12.331",
   "compatibleCoreVersion": "13",
   "scripts": [
     "scripts/mezz-atl.js"

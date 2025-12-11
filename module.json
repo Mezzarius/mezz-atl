@@ -1,0 +1,16 @@
+{
+  "id": "mezz-atl",
+  "title": "Mezz Active Lighting (v13 Rewrite)",
+  "description": "A modern Foundry v13-compatible rewrite of Active Token Lighting.",
+  "version": "1.0.0",
+  "authors": [{ "name": "Mezz" }],
+  "minimumCoreVersion": "12",
+  "compatibleCoreVersion": "13",
+  "scripts": [
+    "scripts/mezz-atl.js"
+  ],
+  "url": "https://github.com/Mezzarius/mezz-atl",
+  "manifest": "https://raw.githubusercontent.com/Mezzarius/mezz-atl/main/module.json",
+  "download": "https://github.com/Mezzarius/mezz-atl/archive/refs/heads/main.zip",
+  "license": "MIT"
+}
